@@ -115,6 +115,7 @@
 			<Language>Русский</Language>
 			<Catalog>ВыгрузкаКонфигурацийВФайлы</Catalog>
 			<Catalog>Справочник1</Catalog>
+			<Catalog>Справочник2</Catalog>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
